@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class TPSController : MonoBehaviour
 {
-     private CharacterController _controller;
+    private CharacterController _controller;
     private Transform _camera;
     private float _horizontal;
     private float _vertical;
